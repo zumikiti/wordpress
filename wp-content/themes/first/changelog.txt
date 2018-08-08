@@ -1,0 +1,94 @@
+Changelog
+==============================
+
+## 24 Sep 2016 - Version 2.0.4
+
+- Added READ ME in the Customizer
+- Updated copyright year
+- Deleted language files
+
+## 08 Sep 2016 - Version 2.0.3
+
+- Fixed logo settings
+- Fixed editor style
+- Added tags for Google Search Console
+- Updated registeration of Google Fonts
+- Updated theme tags
+
+## 11 Sep 2015 - Version 2.0.2
+
+- Fixed customizer settings
+
+## 17 Aug 2015 - Version 2.0.1
+
+- Fixed customizer settings for WordPress 4.3
+- Updated language files
+- Added German locale
+- Added Hungarian locale
+
+## 10 Apr 2015 - Version 2.0.0
+
+- Implemented WP 4.1 functions
+- Improved typography
+- Refactored general files
+
+## 28 Jan 2015 - Version 1.6.2
+
+- Fixed Custom Google Fonts setting
+- Fixed typo in the Customizer
+- Fixed Jetpack widget style
+- Added large size image setting
+
+## 30 Dec 2014 - Version 1.6.1
+
+- Fixed customizer settings for WordPress 4.1
+
+## 01 Dec 2014 - Version 1.6.0
+
+- Fixed list style in Safari
+- Fixed search icon style in Safari
+- Updated Fonts and Colors settings in the Customizer
+- Refactored style.css
+- Updated language files
+
+## 19 Sep 2014 - Version 1.5.0
+
+- Added non-responsive setting
+- Removed js/respond.js
+- Added descriptions in the Customizer
+- Fixed some styles
+- Fixed some texts
+- Updated screenshot.png
+- Updated language files
+- Moved changelog from readme.txt to this file
+
+## 8 Sep 2014 - Version 1.4.1
+
+- Moved $content_width inside the first_setup function
+- Added $content_width for full width template
+
+## 3 Sep 2014 - Version 1.4.0
+
+- Added Footer Menu
+- Added settings in the Customizer
+- Updated screenshot.png
+
+## 27 Aug 2014 - Version 1.3.0
+
+- Added settings in the Customizer
+- Added css/ja.css
+- Updated screenshot.png
+
+## 12 Aug 2014 - Version 1.2.0
+
+- Added settings in the Customizer
+- Removed non-responsive setting
+
+## 6 Aug 2014 - Version 1.1.0
+
+- Extended logo settings in the Customizer
+- Updated copyright statements
+
+## 30 Jul 2014 - Version 1.0.0
+
+- Initial release
