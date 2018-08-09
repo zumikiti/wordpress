@@ -577,6 +577,7 @@ body {
 .site-header {
 	border-bottom: solid 1px #eee;
 	margin-bottom: 56px;
+	background-image: url("http://localhost:8888/wordpress/wp-content/uploads/2018/08/5411cdbca6da4c7851604494b227b867_s.jpg");
 }
 .site-top {
 	margin-bottom: 34px;
@@ -862,7 +863,7 @@ body {
 	margin: 0;
 }
 .header-navigation li {
-	color: #555;
+	color: #fff;
 	line-height: 36px;
 	position: relative;
 	text-align: left;
@@ -941,13 +942,13 @@ body {
 	padding-right: 16px;
 }
 
-/* Social Link 
+/* Social Link
    This section is based on code from Stargazer.
    http://wordpress.org/themes/stargazer */
 .menu a:before {
 	border: solid 1px #ddd;
 	border-radius: 50%;
-	color: #999;
+	color: #fff;
 	display: inline-block;
 	font: normal 18px/1 Genericons;
 	-webkit-font-smoothing: antialiased;
@@ -992,13 +993,13 @@ body {
 .menu a[href*="polldaddy.com"]:before   { content: "\f217"; }
 .menu a[href*="getpocket.com"]:before   { content: "\f224"; }
 .menu a[href*="reddit.com"]:before      { content: "\f222"; }
-.menu a[href*="skype.com"]:before,       
+.menu a[href*="skype.com"]:before,
 .menu a[href*="skype:"]:before          { content: "\f220"; }
 .menu a[href*="stumbleupon.com"]:before { content: "\f223"; }
 .menu a[href*="tumblr.com"]:before      { content: "\f214"; }
 .menu a[href*="twitter.com"]:before     { content: "\f202"; }
 .menu a[href*="vimeo.com"]:before       { content: "\f212"; }
-.menu a[href*="wordpress.org"]:before,   
+.menu a[href*="wordpress.org"]:before,
 .menu a[href*="wordpress.com"]:before   { content: "\f205"; }
 .menu a[href*="youtube.com"]:before     { content: "\f213"; }
 .menu a[href$="/feed/"]:before          { content: "\f413"; }
@@ -1216,7 +1217,7 @@ body {
 	display: inline-block;
 }
 .pagination .dots {
-	background-color: transparent;	
+	background-color: transparent;
 	border-color: transparent;
 	color: #555;
 	padding-left: 10px;
